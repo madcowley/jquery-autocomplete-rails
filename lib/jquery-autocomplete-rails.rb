@@ -1,6 +1,6 @@
 require 'jquery-autocomplete-rails/version'
 
-module Chosen
+module JqueryAutocomplete
   module Rails
   end
 end
@@ -14,4 +14,3 @@ when /^3\.[0]/
   require 'jquery-autocomplete-rails/railtie'
 end
 
-require 'compass-rails'

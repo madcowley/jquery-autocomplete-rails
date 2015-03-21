@@ -1,4 +1,4 @@
-# Chosen for rails asset pipeline
+# Jquery-autocomplete for rails asset pipeline
 
 [JQueryAutocomplete](https://github.com/devbridge/jQuery-Autocomplete) is a jquery plugin for autocompletion.
 
@@ -15,7 +15,7 @@ gem 'jquery-autocomplete-rails'
 
 Then run `bundle install`
 
-### Include chosen javascript assets
+### Include javascript assets
 
 Add to your `app/assets/javascripts/application.js` 
 
